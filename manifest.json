@@ -1,0 +1,19 @@
+{
+  "name": "1280",
+  "description": "1280",
+  "version": "1",
+  "background": {
+    "page": "background.html"
+  },
+  "permissions": [
+    "tabs"
+  ],
+  "browser_action": {
+      "default_title": "1280",
+      "default_icon": "1280-128.png"
+  },
+  "icons": {
+    "128": "1280-128.png"
+  },
+  "manifest_version": 2
+}
